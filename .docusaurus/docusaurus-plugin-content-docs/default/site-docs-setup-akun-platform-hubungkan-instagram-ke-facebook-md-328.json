@@ -1,0 +1,22 @@
+{
+  "id": "Setup Akun Platform/hubungkan instagram ke facebook",
+  "title": "Tautkan akun Instagram Business ke Facebook Page",
+  "description": "Agar Instagram Business dapat tersambung ke Postmatic, maka harus disambungkan ke Facebook Page terlebih dahulu",
+  "source": "@site/docs/Setup Akun Platform/hubungkan instagram ke facebook.md",
+  "sourceDirName": "Setup Akun Platform",
+  "slug": "/Setup Akun Platform/hubungkan instagram ke facebook",
+  "permalink": "/docs/Setup Akun Platform/hubungkan instagram ke facebook",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Instagram Business",
+    "permalink": "/docs/Setup Akun Platform/instagram-business"
+  }
+}

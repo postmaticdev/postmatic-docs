@@ -1,0 +1,26 @@
+{
+  "id": "Setup Akun Platform/facebook-page",
+  "title": "Facebook Page",
+  "description": "Berikut Tutorial lengkap untuk membuat akun Facebook Page",
+  "source": "@site/docs/Setup Akun Platform/facebook-page.md",
+  "sourceDirName": "Setup Akun Platform",
+  "slug": "/Setup Akun Platform/facebook-page",
+  "permalink": "/docs/Setup Akun Platform/facebook-page",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setup Akun Platform",
+    "permalink": "/docs/category/setup-akun-platform"
+  },
+  "next": {
+    "title": "Instagram Business",
+    "permalink": "/docs/Setup Akun Platform/instagram-business"
+  }
+}

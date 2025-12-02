@@ -1,0 +1,26 @@
+{
+  "id": "Setup Akun Platform/instagram-business",
+  "title": "Instagram Business",
+  "description": "Berikut Tutorial lengkap untuk membuat akun Instagram Business",
+  "source": "@site/docs/Setup Akun Platform/instagram-business.md",
+  "sourceDirName": "Setup Akun Platform",
+  "slug": "/Setup Akun Platform/instagram-business",
+  "permalink": "/docs/Setup Akun Platform/instagram-business",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Facebook Page",
+    "permalink": "/docs/Setup Akun Platform/facebook-page"
+  },
+  "next": {
+    "title": "Tautkan akun Instagram Business ke Facebook Page",
+    "permalink": "/docs/Setup Akun Platform/hubungkan instagram ke facebook"
+  }
+}

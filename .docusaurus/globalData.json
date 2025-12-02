@@ -1,0 +1,48 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "Setup Akun Platform/facebook-page",
+          "docs": [
+            {
+              "id": "Setup Akun Platform/facebook-page",
+              "path": "/docs/Setup Akun Platform/facebook-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Setup Akun Platform/hubungkan instagram ke facebook",
+              "path": "/docs/Setup Akun Platform/hubungkan instagram ke facebook",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Setup Akun Platform/instagram-business",
+              "path": "/docs/Setup Akun Platform/instagram-business",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/setup-akun-platform",
+              "path": "/docs/category/setup-akun-platform",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/category/setup-akun-platform",
+                "label": "Setup Akun Platform"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

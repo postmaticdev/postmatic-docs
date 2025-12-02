@@ -1,0 +1,27 @@
+{
+  "id": "Setup Akun Platform/facebook-page copy",
+  "title": "Facebook Page",
+  "description": "Berikut Tutorial lengkap untuk membuat akun Facebook Page",
+  "source": "@site/docs/Setup Akun Platform/facebook-page copy.md",
+  "sourceDirName": "Setup Akun Platform",
+  "slug": "/Setup Akun Platform/facebook-page copy",
+  "permalink": "/docs/Setup Akun Platform/facebook-page copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Setup Akun Platform/facebook-page copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setup Akun Platform",
+    "permalink": "/docs/category/setup-akun-platform"
+  },
+  "next": {
+    "title": "Facebook Page",
+    "permalink": "/docs/Setup Akun Platform/facebook-page"
+  }
+}
