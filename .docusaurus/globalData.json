@@ -8,8 +8,38 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "Setup Akun Platform/facebook-page",
+          "mainDocId": "what-is-postmatic",
           "docs": [
+            {
+              "id": "build-with-ai",
+              "path": "/docs/build-with-ai",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "connect-social-media",
+              "path": "/docs/connect-social-media",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "content-repetition",
+              "path": "/docs/content-repetition",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "content-scheduler",
+              "path": "/docs/content-scheduler",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "file-upload",
+              "path": "/docs/file-upload",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "prompt-list-and-result",
+              "path": "/docs/prompt-list-and-result",
+              "sidebar": "tutorialSidebar"
+            },
             {
               "id": "Setup Akun Platform/facebook-page",
               "path": "/docs/Setup Akun Platform/facebook-page",
@@ -26,6 +56,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "tutorial",
+              "path": "/docs/tutorial",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "what-is-postmatic",
+              "path": "/docs/what-is-postmatic",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/setup-akun-platform",
               "path": "/docs/category/setup-akun-platform",
               "sidebar": "tutorialSidebar"
@@ -35,8 +75,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/category/setup-akun-platform",
-                "label": "Setup Akun Platform"
+                "path": "/docs/what-is-postmatic",
+                "label": "what-is-postmatic"
               }
             }
           }

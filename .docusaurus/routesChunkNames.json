@@ -49,22 +49,46 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-4dc": {
+  "/docs-3ca": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-879": {
+  "/docs-d42": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-c38": {
+  "/docs-f72": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/build-with-ai-912": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-build-with-aicd-9-2b8"
   },
   "/docs/category/setup-akun-platform-db0": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-setup-akun-platform-1-d-9-fd6"
+  },
+  "/docs/connect-social-media-71c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-connect-social-media-257-db9"
+  },
+  "/docs/content-repetition-768": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-content-repetition-544-0f6"
+  },
+  "/docs/content-scheduler-c03": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-content-scheduler-416-8f2"
+  },
+  "/docs/file-upload-93d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-file-uploadd-9-c-ca1"
+  },
+  "/docs/prompt-list-and-result-052": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-prompt-list-and-result-528-b8b"
   },
   "/docs/Setup Akun Platform/facebook-page-b0a": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -77,6 +101,14 @@
   "/docs/Setup Akun Platform/instagram-business-dcd": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-setup-akun-platform-instagram-businessfc-2-c63"
+  },
+  "/docs/tutorial-e64": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-608-5b4"
+  },
+  "/docs/what-is-postmatic-658": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-what-is-postmatic-99-f-60a"
   },
   "/-2e1": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

@@ -1,0 +1,27 @@
+{
+  "id": "content-scheduler",
+  "title": "Detail Penjadwalan Konten",
+  "description": "Content Scheduler digunakan untuk mengatur tanggal dan waktu publikasi konten.",
+  "source": "@site/docs/content-scheduler.md",
+  "sourceDirName": ".",
+  "slug": "/content-scheduler",
+  "permalink": "/docs/content-scheduler",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "Detail Penjadwalan Konten"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Detail Upload File",
+    "permalink": "/docs/file-upload"
+  },
+  "next": {
+    "title": "Detail Pengulangan Konten",
+    "permalink": "/docs/content-repetition"
+  }
+}

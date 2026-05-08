@@ -79,7 +79,7 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "copyright": "Copyright © 2025 POSTMATIC. All rights reserved.",
+      "copyright": "Copyright © 2026 POSTMATIC. All rights reserved.",
       "links": []
     },
     "prism": {

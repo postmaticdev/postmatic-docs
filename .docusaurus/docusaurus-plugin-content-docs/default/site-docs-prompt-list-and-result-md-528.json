@@ -1,0 +1,23 @@
+{
+  "id": "prompt-list-and-result",
+  "title": "Daftar Prompt dan Hasil",
+  "description": "Halaman ini berisi draft untuk menjelaskan daftar prompt dan hasil konten yang dibuat dari prompt tersebut.",
+  "source": "@site/docs/prompt-list-and-result.md",
+  "sourceDirName": ".",
+  "slug": "/prompt-list-and-result",
+  "permalink": "/docs/prompt-list-and-result",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "title": "Daftar Prompt dan Hasil"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Detail Pengulangan Konten",
+    "permalink": "/docs/content-repetition"
+  }
+}

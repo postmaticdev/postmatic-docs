@@ -1,0 +1,28 @@
+{
+  "id": "tutorial",
+  "title": "Cara Menggunakan Postmatic",
+  "description": "Halaman ini adalah ringkasan alur penggunaan Postmatic dari awal sampai konten siap dipublikasikan.",
+  "source": "@site/docs/tutorial.md",
+  "sourceDirName": ".",
+  "slug": "/tutorial",
+  "permalink": "/docs/tutorial",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Cara Menggunakan Postmatic",
+    "slug": "/tutorial"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Apa itu Postmatic?",
+    "permalink": "/docs/what-is-postmatic"
+  },
+  "next": {
+    "title": "Setup Akun Platform",
+    "permalink": "/docs/category/setup-akun-platform"
+  }
+}

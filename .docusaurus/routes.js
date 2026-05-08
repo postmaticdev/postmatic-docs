@@ -44,19 +44,55 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '4dc'),
+    component: ComponentCreator('/docs', '3ca'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '879'),
+        component: ComponentCreator('/docs', 'd42'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'c38'),
+            component: ComponentCreator('/docs', 'f72'),
             routes: [
+              {
+                path: '/docs/build-with-ai',
+                component: ComponentCreator('/docs/build-with-ai', '912'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/docs/category/setup-akun-platform',
                 component: ComponentCreator('/docs/category/setup-akun-platform', 'db0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/connect-social-media',
+                component: ComponentCreator('/docs/connect-social-media', '71c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/content-repetition',
+                component: ComponentCreator('/docs/content-repetition', '768'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/content-scheduler',
+                component: ComponentCreator('/docs/content-scheduler', 'c03'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/file-upload',
+                component: ComponentCreator('/docs/file-upload', '93d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/prompt-list-and-result',
+                component: ComponentCreator('/docs/prompt-list-and-result', '052'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -75,6 +111,18 @@ export default [
               {
                 path: '/docs/Setup Akun Platform/instagram-business',
                 component: ComponentCreator('/docs/Setup Akun Platform/instagram-business', 'dcd'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/tutorial',
+                component: ComponentCreator('/docs/tutorial', 'e64'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/what-is-postmatic',
+                component: ComponentCreator('/docs/what-is-postmatic', '658'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

@@ -1,0 +1,27 @@
+{
+  "id": "file-upload",
+  "title": "Detail Upload File",
+  "description": "Fitur File Upload digunakan untuk menambahkan file pendukung yang akan dipakai dalam proses pembuatan atau publikasi konten.",
+  "source": "@site/docs/file-upload.md",
+  "sourceDirName": ".",
+  "slug": "/file-upload",
+  "permalink": "/docs/file-upload",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "Detail Upload File"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Detail Tutorial Membuat Konten dengan AI",
+    "permalink": "/docs/build-with-ai"
+  },
+  "next": {
+    "title": "Detail Penjadwalan Konten",
+    "permalink": "/docs/content-scheduler"
+  }
+}

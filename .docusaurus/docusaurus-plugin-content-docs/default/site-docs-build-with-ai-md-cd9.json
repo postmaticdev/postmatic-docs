@@ -1,0 +1,27 @@
+{
+  "id": "build-with-ai",
+  "title": "Detail Tutorial Membuat Konten dengan AI",
+  "description": "Fitur Build with AI digunakan untuk membantu membuat draft konten berdasarkan instruksi atau prompt yang Anda masukkan.",
+  "source": "@site/docs/build-with-ai.md",
+  "sourceDirName": ".",
+  "slug": "/build-with-ai",
+  "permalink": "/docs/build-with-ai",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Detail Tutorial Membuat Konten dengan AI"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cara Menghubungkan Media Sosial",
+    "permalink": "/docs/connect-social-media"
+  },
+  "next": {
+    "title": "Detail Upload File",
+    "permalink": "/docs/file-upload"
+  }
+}

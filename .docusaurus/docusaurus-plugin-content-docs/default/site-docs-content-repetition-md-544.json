@@ -1,0 +1,27 @@
+{
+  "id": "content-repetition",
+  "title": "Detail Pengulangan Konten",
+  "description": "Content Repetition digunakan untuk membuat konten yang dipublikasikan berulang berdasarkan pola tertentu.",
+  "source": "@site/docs/content-repetition.md",
+  "sourceDirName": ".",
+  "slug": "/content-repetition",
+  "permalink": "/docs/content-repetition",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "title": "Detail Pengulangan Konten"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Detail Penjadwalan Konten",
+    "permalink": "/docs/content-scheduler"
+  },
+  "next": {
+    "title": "Daftar Prompt dan Hasil",
+    "permalink": "/docs/prompt-list-and-result"
+  }
+}

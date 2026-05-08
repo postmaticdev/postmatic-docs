@@ -1,0 +1,23 @@
+{
+  "id": "what-is-postmatic",
+  "title": "Apa itu Postmatic?",
+  "description": "Postmatic adalah platform untuk membantu proses pembuatan, penjadwalan, dan publikasi konten media sosial dari satu tempat.",
+  "source": "@site/docs/what-is-postmatic.md",
+  "sourceDirName": ".",
+  "slug": "/what-is-postmatic",
+  "permalink": "/docs/what-is-postmatic",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Apa itu Postmatic?"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Cara Menggunakan Postmatic",
+    "permalink": "/docs/tutorial"
+  }
+}
