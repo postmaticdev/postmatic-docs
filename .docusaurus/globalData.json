@@ -36,6 +36,26 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "legalitas-dan-kebijakan/hapus-data",
+              "path": "/docs/legalitas-dan-kebijakan/hapus-data",
+              "sidebar": "legalitasSidebar"
+            },
+            {
+              "id": "legalitas-dan-kebijakan/kebijakan-cookie",
+              "path": "/docs/legalitas-dan-kebijakan/kebijakan-cookie",
+              "sidebar": "legalitasSidebar"
+            },
+            {
+              "id": "legalitas-dan-kebijakan/kebijakan-privasi",
+              "path": "/docs/legalitas-dan-kebijakan/kebijakan-privasi",
+              "sidebar": "legalitasSidebar"
+            },
+            {
+              "id": "legalitas-dan-kebijakan/syarat-dan-ketentuan",
+              "path": "/docs/legalitas-dan-kebijakan/syarat-dan-ketentuan",
+              "sidebar": "legalitasSidebar"
+            },
+            {
               "id": "prompt-list-and-result",
               "path": "/docs/prompt-list-and-result",
               "sidebar": "tutorialSidebar"
@@ -69,6 +89,11 @@
               "id": "/category/setup-akun-platform",
               "path": "/docs/category/setup-akun-platform",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/legalitas-dan-kebijakan",
+              "path": "/docs/category/legalitas-dan-kebijakan",
+              "sidebar": "legalitasSidebar"
             }
           ],
           "draftIds": [],
@@ -77,6 +102,12 @@
               "link": {
                 "path": "/docs/what-is-postmatic",
                 "label": "what-is-postmatic"
+              }
+            },
+            "legalitasSidebar": {
+              "link": {
+                "path": "/docs/category/legalitas-dan-kebijakan",
+                "label": "Legalitas dan Kebijakan"
               }
             }
           }

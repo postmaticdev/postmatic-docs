@@ -1,0 +1,27 @@
+{
+  "id": "legalitas-dan-kebijakan/syarat-dan-ketentuan",
+  "title": "Syarat dan Ketentuan",
+  "description": "Terakhir diperbarui: 06 Agustus 2025",
+  "source": "@site/docs/legalitas-dan-kebijakan/syarat-dan-ketentuan.md",
+  "sourceDirName": "legalitas-dan-kebijakan",
+  "slug": "/legalitas-dan-kebijakan/syarat-dan-ketentuan",
+  "permalink": "/docs/legalitas-dan-kebijakan/syarat-dan-ketentuan",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Syarat dan Ketentuan"
+  },
+  "sidebar": "legalitasSidebar",
+  "previous": {
+    "title": "Kebijakan Privasi",
+    "permalink": "/docs/legalitas-dan-kebijakan/kebijakan-privasi"
+  },
+  "next": {
+    "title": "Hapus Data",
+    "permalink": "/docs/legalitas-dan-kebijakan/hapus-data"
+  }
+}

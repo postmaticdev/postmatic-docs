@@ -3,62 +3,33 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
-    exact: true
-  },
-  {
     path: '/markdown-page',
     component: ComponentCreator('/markdown-page', '3d7'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '3ca'),
+    component: ComponentCreator('/docs', 'bb2'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'd42'),
+        component: ComponentCreator('/docs', '622'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'f72'),
+            component: ComponentCreator('/docs', 'fe5'),
             routes: [
               {
                 path: '/docs/build-with-ai',
                 component: ComponentCreator('/docs/build-with-ai', '912'),
                 exact: true,
                 sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/legalitas-dan-kebijakan',
+                component: ComponentCreator('/docs/category/legalitas-dan-kebijakan', 'd42'),
+                exact: true,
+                sidebar: "legalitasSidebar"
               },
               {
                 path: '/docs/category/setup-akun-platform',
@@ -89,6 +60,30 @@ export default [
                 component: ComponentCreator('/docs/file-upload', '93d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/legalitas-dan-kebijakan/hapus-data',
+                component: ComponentCreator('/docs/legalitas-dan-kebijakan/hapus-data', '37e'),
+                exact: true,
+                sidebar: "legalitasSidebar"
+              },
+              {
+                path: '/docs/legalitas-dan-kebijakan/kebijakan-cookie',
+                component: ComponentCreator('/docs/legalitas-dan-kebijakan/kebijakan-cookie', '168'),
+                exact: true,
+                sidebar: "legalitasSidebar"
+              },
+              {
+                path: '/docs/legalitas-dan-kebijakan/kebijakan-privasi',
+                component: ComponentCreator('/docs/legalitas-dan-kebijakan/kebijakan-privasi', '44b'),
+                exact: true,
+                sidebar: "legalitasSidebar"
+              },
+              {
+                path: '/docs/legalitas-dan-kebijakan/syarat-dan-ketentuan',
+                component: ComponentCreator('/docs/legalitas-dan-kebijakan/syarat-dan-ketentuan', '0bd'),
+                exact: true,
+                sidebar: "legalitasSidebar"
               },
               {
                 path: '/docs/prompt-list-and-result',

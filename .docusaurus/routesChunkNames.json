@@ -1,120 +1,97 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
   "/markdown-page-3d7": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "a7456010"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "393be207"
   },
-  "/docs-3ca": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+  "/docs-bb2": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docsaba-d7c"
+      "plugin": "aba21aa0"
     }
   },
-  "/docs-d42": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
+  "/docs-622": {
+    "__comp": "a7bd4aaa",
+    "__props": "0058b4c6"
   },
-  "/docs-f72": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/docs-fe5": {
+    "__comp": "a94703ab"
   },
   "/docs/build-with-ai-912": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-build-with-aicd-9-2b8"
+    "__comp": "17896441",
+    "content": "cd9f1aa6"
+  },
+  "/docs/category/legalitas-dan-kebijakan-d42": {
+    "__comp": "14eb3368",
+    "__props": "d9363ec3"
   },
   "/docs/category/setup-akun-platform-db0": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-setup-akun-platform-1-d-9-fd6"
+    "__comp": "14eb3368",
+    "__props": "1d954424"
   },
   "/docs/connect-social-media-71c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-connect-social-media-257-db9"
+    "__comp": "17896441",
+    "content": "2574e4f1"
   },
   "/docs/content-repetition-768": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-content-repetition-544-0f6"
+    "__comp": "17896441",
+    "content": "5444fa10"
   },
   "/docs/content-scheduler-c03": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-content-scheduler-416-8f2"
+    "__comp": "17896441",
+    "content": "416ec20a"
   },
   "/docs/file-upload-93d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-file-uploadd-9-c-ca1"
+    "__comp": "17896441",
+    "content": "d9c62174"
+  },
+  "/docs/legalitas-dan-kebijakan/hapus-data-37e": {
+    "__comp": "17896441",
+    "content": "be024090"
+  },
+  "/docs/legalitas-dan-kebijakan/kebijakan-cookie-168": {
+    "__comp": "17896441",
+    "content": "7bb8b832"
+  },
+  "/docs/legalitas-dan-kebijakan/kebijakan-privasi-44b": {
+    "__comp": "17896441",
+    "content": "b175a8e1"
+  },
+  "/docs/legalitas-dan-kebijakan/syarat-dan-ketentuan-0bd": {
+    "__comp": "17896441",
+    "content": "550311e3"
   },
   "/docs/prompt-list-and-result-052": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-prompt-list-and-result-528-b8b"
+    "__comp": "17896441",
+    "content": "5281cf6d"
   },
   "/docs/Setup Akun Platform/facebook-page-b0a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-setup-akun-platform-facebook-page-8-a-7-c11"
+    "__comp": "17896441",
+    "content": "8a7c3159"
   },
   "/docs/Setup Akun Platform/hubungkan instagram ke facebook-7d4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-setup-akun-platform-hubungkan-instagram-ke-facebook-328-eac"
+    "__comp": "17896441",
+    "content": "32890ebb"
   },
   "/docs/Setup Akun Platform/instagram-business-dcd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-setup-akun-platform-instagram-businessfc-2-c63"
+    "__comp": "17896441",
+    "content": "fc21cce0"
   },
   "/docs/tutorial-e64": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-608-5b4"
+    "__comp": "17896441",
+    "content": "60875e34"
   },
   "/docs/what-is-postmatic-658": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-what-is-postmatic-99-f-60a"
+    "__comp": "17896441",
+    "content": "99f671b6"
   },
   "/-2e1": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "a7456010"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "5e9f5e1a"
   }
 }

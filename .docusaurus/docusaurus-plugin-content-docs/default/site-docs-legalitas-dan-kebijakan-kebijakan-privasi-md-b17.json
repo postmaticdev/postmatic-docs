@@ -1,0 +1,27 @@
+{
+  "id": "legalitas-dan-kebijakan/kebijakan-privasi",
+  "title": "Kebijakan Privasi",
+  "description": "Interpretasi dan Definisi",
+  "source": "@site/docs/legalitas-dan-kebijakan/kebijakan-privasi.md",
+  "sourceDirName": "legalitas-dan-kebijakan",
+  "slug": "/legalitas-dan-kebijakan/kebijakan-privasi",
+  "permalink": "/docs/legalitas-dan-kebijakan/kebijakan-privasi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Kebijakan Privasi"
+  },
+  "sidebar": "legalitasSidebar",
+  "previous": {
+    "title": "Legalitas dan Kebijakan",
+    "permalink": "/docs/category/legalitas-dan-kebijakan"
+  },
+  "next": {
+    "title": "Syarat dan Ketentuan",
+    "permalink": "/docs/legalitas-dan-kebijakan/syarat-dan-ketentuan"
+  }
+}

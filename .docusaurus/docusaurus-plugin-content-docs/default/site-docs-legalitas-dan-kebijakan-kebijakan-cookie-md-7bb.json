@@ -1,0 +1,23 @@
+{
+  "id": "legalitas-dan-kebijakan/kebijakan-cookie",
+  "title": "Kebijakan Cookie",
+  "description": "Apa itu Cookie?",
+  "source": "@site/docs/legalitas-dan-kebijakan/kebijakan-cookie.md",
+  "sourceDirName": "legalitas-dan-kebijakan",
+  "slug": "/legalitas-dan-kebijakan/kebijakan-cookie",
+  "permalink": "/docs/legalitas-dan-kebijakan/kebijakan-cookie",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Kebijakan Cookie"
+  },
+  "sidebar": "legalitasSidebar",
+  "previous": {
+    "title": "Hapus Data",
+    "permalink": "/docs/legalitas-dan-kebijakan/hapus-data"
+  }
+}

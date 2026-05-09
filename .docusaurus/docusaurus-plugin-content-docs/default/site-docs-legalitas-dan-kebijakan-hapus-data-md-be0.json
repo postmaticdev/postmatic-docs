@@ -1,0 +1,27 @@
+{
+  "id": "legalitas-dan-kebijakan/hapus-data",
+  "title": "Hapus Data",
+  "description": "Prosedur Permintaan Penghapusan Data",
+  "source": "@site/docs/legalitas-dan-kebijakan/hapus-data.md",
+  "sourceDirName": "legalitas-dan-kebijakan",
+  "slug": "/legalitas-dan-kebijakan/hapus-data",
+  "permalink": "/docs/legalitas-dan-kebijakan/hapus-data",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Hapus Data"
+  },
+  "sidebar": "legalitasSidebar",
+  "previous": {
+    "title": "Syarat dan Ketentuan",
+    "permalink": "/docs/legalitas-dan-kebijakan/syarat-dan-ketentuan"
+  },
+  "next": {
+    "title": "Kebijakan Cookie",
+    "permalink": "/docs/legalitas-dan-kebijakan/kebijakan-cookie"
+  }
+}

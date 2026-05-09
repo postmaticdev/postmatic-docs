@@ -4,7 +4,7 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -95,7 +95,13 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            type: 'docSidebar',
+            sidebarId: 'legalitasSidebar',
+            position: 'left',
+            label: 'Legalitas dan Kebijakan',
+          },
+          // { to: '/blog', label: 'Blog', position: 'left' },
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',
@@ -105,47 +111,69 @@ const config = {
       },
       footer: {
         style: 'dark',
-        // links: [
-        //   {
-        //     title: 'Docs',
-        //     items: [
-        //       {
-        //         label: 'Tutorial',
-        //         to: '/docs/intro',
-        //       },
-        //     ],
-        //   },
-        //   {
-        //     title: 'Community',
-        //     items: [
-        //       {
-        //         label: 'Stack Overflow',
-        //         href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-        //       },
-        //       {
-        //         label: 'Discord',
-        //         href: 'https://discordapp.com/invite/docusaurus',
-        //       },
-        //       {
-        //         label: 'X',
-        //         href: 'https://x.com/docusaurus',
-        //       },
-        //     ],
-        //   },
-        //   {
-        //     title: 'More',
-        //     items: [
-        //       {
-        //         label: 'Blog',
-        //         to: '/blog',
-        //       },
-        //       {
-        //         label: 'GitHub',
-        //         href: 'https://github.com/facebook/docusaurus',
-        //       },
-        //     ],
-        //   },
-        // ],
+        links: [
+          {
+            title: 'Tutorial',
+            items: [
+              {
+                label: 'Apa itu Postmatic',
+                to: '/docs/what-is-postmatic',
+              },
+              {
+                label: 'Cara Menggunakan Postmatic',
+                to: '/docs/tutorial',
+              },
+              {
+                label: 'Setup Akun Platform',
+                to: '/docs/category/setup-akun-platform',
+              },
+              {
+                label: 'Hubungkan Akun Media Sosial',
+                to: '/docs/connect-social-media',
+              },
+            ],
+          },
+          {
+            title: 'Legalitas dan Kebijakan',
+            items: [
+              {
+                label: 'Kebijakan Privasi',
+                to: '/docs/legalitas-dan-kebijakan/kebijakan-privasi',
+              },
+              {
+                label: 'Syarat dan Ketentuan',
+                to: '/docs/legalitas-dan-kebijakan/syarat-dan-ketentuan',
+              },
+              {
+                label: 'Hapus Data',
+                to: '/docs/legalitas-dan-kebijakan/hapus-data',
+              },
+              {
+                label: 'Kebijakan Cookie',
+                to: '/docs/legalitas-dan-kebijakan/kebijakan-cookie',
+              },
+            ],
+          },
+          {
+            title: 'Hubungi Kami',
+            items: [
+              {
+                label: 'team@postmatic.id',
+                to: '/',
+              },
+              {
+                label: '+6285117606447',
+                to: '/',
+              },
+              {
+                label: 'Kab. Sleman Yogyakarta Indonesia',
+                to: '/',
+              },
+
+            ],
+          },
+
+        ],
         copyright: `Copyright © ${new Date().getFullYear()} POSTMATIC. All rights reserved.`,
       },
       prism: {
