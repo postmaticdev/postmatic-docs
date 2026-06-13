@@ -39,6 +39,20 @@ const sidebars = {
     'prompt-list-and-result',
   ],
 
+  penetapanHargaSidebar: [
+    {
+      type: 'category',
+      label: 'Penetapan Harga',
+      link: {
+        type: 'generated-index',
+        description: 'Informasi paket dan harga layanan Postmatic.',
+      },
+      items: [
+        'penetapan-harga/paket-dan-harga',
+      ],
+    },
+  ],
+
   legalitasSidebar: [
     {
       type: 'category',

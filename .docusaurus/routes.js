@@ -9,15 +9,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'bb2'),
+    component: ComponentCreator('/docs', '201'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '622'),
+        component: ComponentCreator('/docs', '791'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'fe5'),
+            component: ComponentCreator('/docs', '9ed'),
             routes: [
               {
                 path: '/docs/build-with-ai',
@@ -30,6 +30,12 @@ export default [
                 component: ComponentCreator('/docs/category/legalitas-dan-kebijakan', 'd42'),
                 exact: true,
                 sidebar: "legalitasSidebar"
+              },
+              {
+                path: '/docs/category/penetapan-harga',
+                component: ComponentCreator('/docs/category/penetapan-harga', '441'),
+                exact: true,
+                sidebar: "penetapanHargaSidebar"
               },
               {
                 path: '/docs/category/setup-akun-platform',
@@ -84,6 +90,12 @@ export default [
                 component: ComponentCreator('/docs/legalitas-dan-kebijakan/syarat-dan-ketentuan', '0bd'),
                 exact: true,
                 sidebar: "legalitasSidebar"
+              },
+              {
+                path: '/docs/penetapan-harga/paket-dan-harga',
+                component: ComponentCreator('/docs/penetapan-harga/paket-dan-harga', '789'),
+                exact: true,
+                sidebar: "penetapanHargaSidebar"
               },
               {
                 path: '/docs/prompt-list-and-result',

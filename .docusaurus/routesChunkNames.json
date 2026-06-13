@@ -6,17 +6,17 @@
     },
     "content": "393be207"
   },
-  "/docs-bb2": {
+  "/docs-201": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-622": {
+  "/docs-791": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-fe5": {
+  "/docs-9ed": {
     "__comp": "a94703ab"
   },
   "/docs/build-with-ai-912": {
@@ -26,6 +26,10 @@
   "/docs/category/legalitas-dan-kebijakan-d42": {
     "__comp": "14eb3368",
     "__props": "d9363ec3"
+  },
+  "/docs/category/penetapan-harga-441": {
+    "__comp": "14eb3368",
+    "__props": "537301fe"
   },
   "/docs/category/setup-akun-platform-db0": {
     "__comp": "14eb3368",
@@ -62,6 +66,10 @@
   "/docs/legalitas-dan-kebijakan/syarat-dan-ketentuan-0bd": {
     "__comp": "17896441",
     "content": "550311e3"
+  },
+  "/docs/penetapan-harga/paket-dan-harga-789": {
+    "__comp": "17896441",
+    "content": "51b9ef4f"
   },
   "/docs/prompt-list-and-result-052": {
     "__comp": "17896441",

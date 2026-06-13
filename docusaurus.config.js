@@ -97,6 +97,12 @@ const config = {
           },
           {
             type: 'docSidebar',
+            sidebarId: 'penetapanHargaSidebar',
+            position: 'left',
+            label: 'Penetapan Harga',
+          },
+          {
+            type: 'docSidebar',
             sidebarId: 'legalitasSidebar',
             position: 'left',
             label: 'Legalitas dan Kebijakan',
