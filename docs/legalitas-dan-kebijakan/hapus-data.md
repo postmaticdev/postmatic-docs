@@ -9,7 +9,7 @@ title: Hapus Data
 
 ### 1. Pengajuan Permintaan
 
-Kirim email ke team@postmatic.id dengan subjek "Data Deletion Request." Sertakan nama lengkap, email terdaftar, nomor telepon, dan penjelasan singkat opsional tentang permintaan Anda.
+Kirim email ke team@postmatic.id dengan subjek "Data Deletion Request." Sertakan nama lengkap, email terdaftar, nomor telepon, dan penjelasan singkat opsional tentang permintaan Anda. cobaaa
 
 ### 2. Verifikasi Identitas
 
